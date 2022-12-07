@@ -1,4 +1,6 @@
-ol li{
+ol>li{
   color:red;
   background-color: rgb(234, 234, 100);
 }
+
+
